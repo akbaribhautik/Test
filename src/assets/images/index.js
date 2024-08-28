@@ -1,0 +1,21 @@
+// images.js
+export const banner = require('../images/banner.png');
+export const menu = require('../images/menu.png');
+export const profile = require('../images/profile.png');
+export const downArrow = require('../images/downArrow.png');
+export const notification = require('../images/notification.png');
+export const circle = require('../images/circle.png');
+export const model = require('../images/model.png');
+export const whatsappText = require('../images/whatsappText.png');
+export const teenPati = require('../images/teenpati.png');
+export const star = require('../images/star.png');
+export const tabLeftIcon = require('../images/tabLeftIcon.png');
+export const casinoImage = require('../images/casinoImg.png');
+export const upi = require('../images/upi.png');
+export const phonepe = require('../images/phonepe.png');
+export const paytm = require('../images/paytm.png');
+export const gpay = require('../images/gpay.png');
+export const bank = require('../images/bank.png');
+export const game1 = require('../images/game1.png');
+export const game2 = require('../images/game2.png');
+export const game3 = require('../images/game3.png');
